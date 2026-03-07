@@ -22,7 +22,11 @@
       <!-- <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,azure,docker,kubernetes"/> --!>
     </p>
   </td>
-      
+    </table>
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
   <td align="center" width="33%">
     <h3>🚀 Featured Projects</h3>
