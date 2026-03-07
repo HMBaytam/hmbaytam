@@ -5,25 +5,6 @@
 </h4>
 
 
-<table>
-<tr>
-  <td align="center" width="33%">
-    <h3>🔗 Connect</h3>
-    <p>
-      <a href="https://linkedin.com/in/hmbaytam">🔵 LinkedIn</a> | 
-      <a href="https://github.com/hmbaytam">⚙️ GitHub</a> | 
-      <!-- <a href="https://amanpurohit.com">🌐 Portfolio</a> --!>
-    </p>
-  </td>
-  <td align="center" width="33%">
-    <h3>🛠️ Tech Arsenal</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker"/>
-      <!-- <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,azure,docker,kubernetes"/> --!>
-    </p>
-  </td>
-    </table>
-
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2018%20mins-blue?style=flat)
 
@@ -104,6 +85,23 @@ Python                   4 repos             ███████████�
 <!--END_SECTION:waka-->
 
 <!--
+<table>
+<tr>
+  <td align="center" width="33%">
+    <h3>🔗 Connect</h3>
+    <p>
+      <a href="https://linkedin.com/in/hmbaytam">🔵 LinkedIn</a> | 
+      <a href="https://github.com/hmbaytam">⚙️ GitHub</a> | 
+      <!-- <a href="https://amanpurohit.com">🌐 Portfolio</a> --!>
+    </p>
+  </td>
+  <td align="center" width="33%">
+    <h3>🛠️ Tech Arsenal</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker"/>
+      <!-- <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,azure,docker,kubernetes"/> --!>
+    </p>
+  </td>
   <td align="center" width="33%">
     <h3>🚀 Featured Projects</h3>
     <table>
