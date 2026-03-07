@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hassan Elbaytam | Software Engineer </h1>
 <h4 align="center">
- Do or do not; there is no try
+ Do or do not, there is no try
 </h4>
 
 
