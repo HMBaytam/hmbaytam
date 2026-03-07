@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hassan Elbaytam | Data Analyst & ML Engineer </h1>
+<h1 align="center"> Hassan Elbaytam | Software Engineer </h1>
 <h4 align="center">
- There is always a way
+ Do or do not; there is no try
 </h4>
 
 
