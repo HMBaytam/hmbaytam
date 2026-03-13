@@ -49,19 +49,16 @@ Sunday                   26 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 7 mins              ██████████████████████░░░   88.53 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              ██████████████████████░░░   88.53 % 
-Claude                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +75,5 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 03:16:23 UTC
+ Last Updated on 13/03/2026 03:12:42 UTC
 <!--END_SECTION:waka-->
