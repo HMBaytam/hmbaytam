@@ -12,7 +12,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 310 Bytes Used in GitHub's Storage 
+> 📦 311 Bytes Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2026
  > 
@@ -49,16 +49,20 @@ Sunday                   26 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 30 mins             ██████████████░░░░░░░░░░░   55.13 % 
+HTML                     23 mins             ███████████░░░░░░░░░░░░░░   42.02 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Assignment N1            30 mins             ██████████████░░░░░░░░░░░   54.58 % 
+Assignment N2            24 mins             ███████████░░░░░░░░░░░░░░   44.84 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +79,5 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 03:42:30 UTC
+ Last Updated on 17/03/2026 03:17:35 UTC
 <!--END_SECTION:waka-->
