@@ -49,16 +49,19 @@ Sunday                   26 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     29 mins             ████████████████████░░░░░   81.34 % 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ls-custom-bar-chart      36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +78,5 @@ Python                   4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 03:37:43 UTC
+ Last Updated on 28/03/2026 03:20:31 UTC
 <!--END_SECTION:waka-->
