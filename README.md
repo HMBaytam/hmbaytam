@@ -12,7 +12,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 409 Bytes Used in GitHub's Storage 
+> 📦 410 Bytes Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2026
  > 
@@ -49,19 +49,16 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 13 mins             ██████████████░░░░░░░░░░░   54.01 % 
-C#                       11 mins             ███████████░░░░░░░░░░░░░░   45.59 % 
-XAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-assignment-library-app-HM18 mins             ███████████████████░░░░░░   75.61 % 
-Unknown Project          5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -80,5 +77,5 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 04:00:57 UTC
+ Last Updated on 27/04/2026 04:05:36 UTC
 <!--END_SECTION:waka-->
