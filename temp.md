@@ -32,7 +32,6 @@
     <td>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purohitamann&theme=radical&hide_border=true" width="400">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmbaytam&theme=radical&hide_border=true" width="400">
 </p>
 
@@ -40,9 +39,9 @@
 
    </td>
    <td><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purohitamann&layout=compact&theme=radical&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmbaytam&layout=compact&theme=radical&hide_border=true" width="400">
 </p></td>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=purohitamann&show_icons=true&theme=radical&hide_border=true" width="400"></td>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=hmbaytam&show_icons=true&theme=radical&hide_border=true" width="400"></td>
   </tr>
 </table>
 
