@@ -6,7 +6,7 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,16 +49,17 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ███████████████████░░░░░░   75.35 % 
+SQL                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tarikh-ai                1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +78,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 04:04:51 UTC
+ Last Updated on 27/07/2026 04:11:43 UTC
 <!--END_SECTION:waka-->
