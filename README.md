@@ -6,7 +6,9 @@
 
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,17 +51,40 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-HTML                     0 secs              ███████████████████░░░░░░   75.35 % 
-SQL                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+JSON                     13 mins             ██████████████░░░░░░░░░░░   56.04 % 
+Markdown                 9 mins              ██████████░░░░░░░░░░░░░░░   38.55 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tarikh-ai                1 min               █████████████████████████   100.00 % 
+tarikh-ai                14 mins             ███████████████░░░░░░░░░░   61.45 % 
+workdir                  9 mins              ██████████░░░░░░░░░░░░░░░   38.55 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 mins (94.77%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 477 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -78,5 +103,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/HMBaytam/HMBaytam/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 04:11:43 UTC
+ Last Updated on 28/07/2026 03:45:13 UTC
 <!--END_SECTION:waka-->
